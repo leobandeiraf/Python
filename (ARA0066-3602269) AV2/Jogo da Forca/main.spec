@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\Bandeira\\Documents\\Development\\AV2\\Jogo da Forca'],
+             pathex=['C:\\Users\\Bandeira\\Documents\\GitHub\\Python\\(ARA0066-3602269) AV2\\Jogo da Forca'],
              binaries=[],
              datas=[],
              hiddenimports=[],
