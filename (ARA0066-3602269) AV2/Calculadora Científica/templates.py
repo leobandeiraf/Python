@@ -40,8 +40,8 @@ def make_button(root, text, **grid_options) -> tk.Button:
 def make_buttons(root, starting_row) -> List[List[tk.Button]]:
     button_texts: List[List[str]] = [
         ['sen', 'cos', 'tg', 'C'],
-        ['7', '8', '9', '÷'],
-        ['4', '5', '6', 'x'],
+        ['7', '8', '9', '/'],
+        ['4', '5', '6', '*'],
         ['1', '2', '3', '-'],
         ['=', '0', '.', '+'],
     ]
